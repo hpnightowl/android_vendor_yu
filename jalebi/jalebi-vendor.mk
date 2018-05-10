@@ -52,6 +52,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/jalebi/proprietary/vendor/etc/permissions/imscm.xml:system/vendor/etc/permissions/imscm.xml \
     vendor/yu/jalebi/proprietary/vendor/etc/permissions/qcnvitems.xml:system/vendor/etc/permissions/qcnvitems.xml \
     vendor/yu/jalebi/proprietary/vendor/etc/permissions/qcrilhook.xml:system/vendor/etc/permissions/qcrilhook.xml \
+    vendor/yu/jalebi/proprietary/vendor/etc/permissions/qti_permissions.xml:system/vendor/etc/permissions/qti_permissions.xml \
     vendor/yu/jalebi/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/yu/jalebi/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/yu/jalebi/proprietary/vendor/lib/com.quicinc.cne.api@1.0.so:system/vendor/lib/com.quicinc.cne.api@1.0.so \
@@ -210,6 +211,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/jalebi/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libvoice-svc.so:system/vendor/lib/libvoice-svc.so \
+    vendor/yu/jalebi/proprietary/vendor/lib/libwpa_client.so:system/vendor/lib/libwpa_client.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/yu/jalebi/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
